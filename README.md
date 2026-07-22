@@ -1,13 +1,19 @@
-
-<div align="center">
-  <img src="portrait_2.svg" alt="Animated Terminal Portrait" width="250"/>
+## 💫 About Me:
+<table>
+<tr>
+<td>
+<div align="left">
+  <img src="portrait_2.svg" alt="Animated Terminal Portrait" width="500"/>
 </div>
+</td>
+<td>
 
-# 💫 About Me:
 <div align="center">
   <img src="typing.svg" alt="Animated Typing Text" width="840"/>
 </div>
-
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujwalnaik_art_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-naik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujwal.s.naik@gmail.com) 
