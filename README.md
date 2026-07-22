@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="portrait.svg" alt="Animated Terminal Portrait" width="840"/>
+  <img src="portrait.svg" alt="Animated Terminal Portrait" width="250"/>
 </div>
 
 # 💫 About Me:
