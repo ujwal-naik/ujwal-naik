@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="portrait.svg" alt="Animated Terminal Portrait" width="840"/>
+</div>
+
 # 💫 About Me:
 🎓 Currently exploring the world of automation, AI, and smart systems.<br><br>💻 Tech Stack & Tools: Python, C, and TensorFlow.<br><br>⚙️ Hardware & Systems: Arduino prototyping and customizing Linux environments (Arch Linux, Ubuntu).<br><br>🛠️ What I build: I enjoy bringing mechanical concepts to life with code. to a miniature hardware model for a footstep electricity-generating staircase.<br><br>🎨 Beyond the terminal: When I am not debugging circuits or configuring my OS, you can find me pencil sketching or editing short-form videos and reels.
 
