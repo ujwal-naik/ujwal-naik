@@ -1,9 +1,10 @@
+<img src="https://readme-typing-svg.herokuapp.com/?font=storng+Fira+Code&weight=500&size=25&pause=100&color=0FF00&background=00000&vCenter=true&width=435&lines=%3E+Who+am+I+%3f;%3E+Stick+around+and+find+out+&#12484" alt="Typing SVG" />
 ## 💫 About Me:
 <table>
 <tr>
 <td>
 <div align="left">
-  <img src="portrait_2.svg" alt="Animated Terminal Portrait" width="500"/>
+  <img src="portrait_2.svg" alt="Animated Terminal Portrait" width="500" />
 </div>
 </td>
 <td>
